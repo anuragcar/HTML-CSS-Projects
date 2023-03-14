@@ -1,0 +1,9 @@
+.survey {
+  font-family: Helvetica;
+  height: 100px;
+  width: 300px;
+  border: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0.2);
+  padding-left: 15px;
+}
