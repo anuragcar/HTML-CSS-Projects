@@ -1,0 +1,42 @@
+.header {
+  font-family: Helvetica, Arial;
+  display: flex;
+  background-color: rgb(128, 83, 177);
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.home {
+  width: 100px;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.search {
+  flex: 1;
+  border-radius: 50px;
+  border: none;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  max-width: 300px;
+}
+
+.download {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 2px;
+  border: solid;
+  border-width: 1px;
+  border-color: white;
+  background-color: rgb(128, 83, 177);
+  color: white;
+  cursor: pointer;
+}
